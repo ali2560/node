@@ -7,8 +7,8 @@
  ## prerequisite:
  
  ### backend:
- step 1: npm init
- step 2: npm install express body-parser cors mongoose
+  step 1: npm init
+  step 2: npm install express body-parser cors mongoose
  
  ### Front:
  npm update --save
