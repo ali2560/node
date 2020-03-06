@@ -7,10 +7,10 @@
  ## prerequisite:
  
  ### backend:
-  step 1: npm init
+  step 1: npm init<br/>
   step 2: npm install express body-parser cors mongoose
  
  ### Front:
- npm update --save
- npm install bootstrap
+ npm update --save<br/>
+ npm install bootstrap<br/>
  npm install react-router-dom
