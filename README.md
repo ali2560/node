@@ -4,13 +4,13 @@
  
  for install and exploit this application, you can follow instruction.
  
- ##prerequisite:
+ ## prerequisite:
  
- ###backend:
+ ### backend:
  step 1: npm init
  step 2: npm install express body-parser cors mongoose
  
- ###Front:
+ ### Front:
  npm update --save
  npm install bootstrap
  npm install react-router-dom
